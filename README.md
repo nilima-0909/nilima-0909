@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **HTML , CSS , JS , ajax , Json , PHP , Codigniter**
+- 💬 Ask me about **HTML , CSS , JS , ajax , json , php , Codeigniter**
 
 - 📫 How to reach me **nilimabhose@gmail.com**
 
