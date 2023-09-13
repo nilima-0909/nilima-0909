@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **HTML , CSS , JS**
+- 💬 Ask me about **HTML , CSS , JS , ajax , Json , PHP , Codigniter**
 
 - 📫 How to reach me **nilimabhose@gmail.com**
 
